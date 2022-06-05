@@ -4,7 +4,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: green;
+  background-color: rgb(122, 209, 95);
 }
 
 h1,
@@ -22,7 +22,7 @@ td {
   padding: 10px;
   border: 1px solid black;
   border-collapse: collapse;
-  background-color: lightgreen;
+  background-color: rgb(148, 196, 148);
   width: 600px;
 }
 img {
@@ -46,5 +46,5 @@ caption {
   color: white;
 }
 .picture {
-  border: 3px solid #4caf50;
+  border: 3px solid rgb(122, 209, 95);
 }
